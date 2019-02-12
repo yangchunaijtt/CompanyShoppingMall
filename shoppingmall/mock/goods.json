@@ -1,0 +1,30 @@
+{
+    "status":"0",
+    "msg":"成功",
+    "result":[
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499,
+            "productImg":"1.jpg"
+        },
+        {
+            "productId":"13431",
+            "productName":"小米充电宝",
+            "productPrice":129,
+            "productImg":"2.jpg"
+        },
+        {
+            "productId":"100002",
+            "productName":"苹果",
+            "productPrice":6999,
+            "productImg":"3.jpg"
+        },
+        {
+            "productId":"100003",
+            "productName":"华为",
+            "productPrice":2439,
+            "productImg":"4.jpg"
+        }
+    ]
+}
